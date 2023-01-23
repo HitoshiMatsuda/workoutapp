@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Infomation
 * My Workout Note
+
+## Release
+* 2023-03-31

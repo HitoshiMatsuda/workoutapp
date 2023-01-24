@@ -1,6 +1,7 @@
 # trunk
 
 private workout app
+personal training record
 
 ## Getting Started
 

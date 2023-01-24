@@ -48,4 +48,3 @@ app.*.map.json
 # 自動生成ファイル、パスワード管理ファイルをGit管理から外す
 pubspec.lock
 password.md
-README.md

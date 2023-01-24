@@ -1,6 +1,6 @@
 # trunk
 
-hitoshi private workout app
+private workout app
 
 ## Getting Started
 

@@ -44,3 +44,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# 自動生成ファイル、パスワード管理ファイルをGit管理から外す
+pubspec.lock
+password.md
+README.md

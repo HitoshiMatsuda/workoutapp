@@ -1,26 +1,19 @@
-# trunk
+# トレーニング管理アプリケーション
+本プロジェクトではトレーニング記録管理のためのアプリケーションの開発を行う。  
 
-private workout app
-personal training record
+# バージョン一覧
+version_1.0.0 [ ]
 
-## Getting Started
+# 開発進捗
+- [ ] 要件概要作成
+- [ ] 要件定義作成
+- [ ] 機能設計書作成（DB含む）
+- [ ] 実装
+- [ ] 単体テスト
+- [ ] 総合テスト
+- [ ] 受入テスト
 
-This project is a starting point for a Flutter application.
+# Java Setting
+* jdk-17
+* jre-1.8
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Infomation
-* My Workout Note
-
-## Release
-* 2023-03-31
-
-## Tags
-* FirstReleaseタグ作成済み
